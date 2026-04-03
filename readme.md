@@ -34,22 +34,23 @@ Test your guessing skills and try to achieve the best score!
 
 ## 📸 Screenshots
 🟢 Start Screen
-![Start](s1.png)
+![Start](ss/s1.png)
 
 🔵 Guess Input
-![Guess](s2.png)
+![Guess](ss/s2.png)
 
 🟡 Wrong Attempt
-![Wrong](s3.png)
+![Wrong](ss/s3.png)
 
 🔴 Multiple Attempts
-![Attempts](s4.png)
+![Attempts](ss/s4.png)
 
 🟣 Correct Answer
-![Correct](s5.png)
+![Correct](ss/s5.png)
 
-## 🌐 Live Demo
-[Click Here to Play]: http://127.0.0.1:5501/index.html
+## 🚀 Live Demo
+
+👉http://127.0.0.1:5501/index.html
 
 ## 💡 Future Improvements
 - Add difficulty levels (Easy, Medium, Hard)
